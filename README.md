@@ -69,7 +69,7 @@ module.exports = (app) => {
   router.get('/ip', controller.home.ip)
 }
 
-
+```
 ## 提问交流
 
 请到 [egg issues](https://github.com/XXllXX/egg/issues) 异步交流。
